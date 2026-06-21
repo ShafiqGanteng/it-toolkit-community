@@ -1,14 +1,18 @@
-# 🛠️ IT Toolkit - Community Edition
+﻿# 🛠️ IT Toolkit - Community Edition
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Made With Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ShafiqGanteng/it-toolkit-community)
+![GitHub Release Date](https://img.shields.io/github/release-date/ShafiqGanteng/it-toolkit-community)
+![GitHub all releases](https://img.shields.io/github/downloads/ShafiqGanteng/it-toolkit-community/total)
+![GitHub repo size](https://img.shields.io/github/repo-size/ShafiqGanteng/it-toolkit-community)
 
 **All-in-One IT Helper Tool for Office Workers** - Open source, free, and powerful!
 
-Made with ❤️ by **Dev Fiq** ([ShafiqGanteng](https://github.com/ShafiqGanteng))
+Made with ❤️ by **Dev Zatrac** ([@ShafiqGanteng](https://github.com/ShafiqGanteng))
 
 ---
 
@@ -253,11 +257,9 @@ If this tool helps you in your daily IT work, please:
 
 ## 👤 Author
 
-**Dev Fiq** (Shafiq) - OB (Office Boy) turned Python Developer 💪
+**Dev Zatrac** - OB (Office Boy) turned Python Developer 💪
 
 - GitHub: [@ShafiqGanteng](https://github.com/ShafiqGanteng)
-
-> "From mop to mouse, from broom to boot.exe — learning never stops!" 🚀
 
 ---
 
