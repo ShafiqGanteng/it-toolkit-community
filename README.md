@@ -171,7 +171,38 @@ it-toolkit-community/
 
 ## 📸 Screenshots
 
-(Coming soon - feel free to submit PRs with screenshots!)
+### 🎨 Main Menu
+*All-in-one interface with categorized features*
+
+![Main Menu](screenshots/01-main-menu.PNG)
+
+---
+
+### 🖨️ Auto-Scan Network Printers
+*Automatically detect printers with device name resolution*
+
+![Printer Scan](screenshots/02-printer-scan.PNG)
+
+---
+
+### 📊 System Information
+*Complete hardware & OS details at a glance*
+
+![System Info](screenshots/03-system-info.png)
+
+---
+
+### 🔐 Password Generator
+*Generate strong passwords instantly*
+
+![Password Generator](screenshots/04-password-generator.png)
+
+---
+
+### 🌐 Network Information
+*View IP, MAC address, and network adapters*
+
+![Network Info](screenshots/05-network-info.png)
 
 ---
 
